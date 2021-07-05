@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\Controllers",
+    "\\Data",
+    "\\Views",
+    "\\Views\\jokes",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\JokesApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
